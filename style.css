@@ -1,0 +1,46 @@
+body {
+  background-color: #f2f2f2;
+}
+
+.main_container {
+  border: 3px solid #f2f2f2;
+  box-shadow: 3px 3px 3px rebeccapurple;
+  margin: auto;
+  width: 50%;
+  padding: 2%;
+}
+h1 {
+  text-align: center;
+  color: rebeccapurple;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.labels {
+  font-weight: bolder;
+  font-family: cursive;
+  color: rebeccapurple;
+}
+
+.display_div label {
+  padding: 1%;
+}
+
+.display_div label {
+  display: block;
+}
+
+.display_div #name {
+  font-size: 32px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.display_div #height {
+  font-size: 32px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.display_div #country {
+  font-size: 32px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
